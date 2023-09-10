@@ -1,0 +1,125 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+  body{
+    background: rgb(255, 255, 255);
+    color: white;
+  }
+  nav{
+    background-color: rgb(41, 6, 73);
+    display: flex;
+    justify-content:space-around;
+    height:50px;
+    align-items: center;
+  }
+  nav ul{
+    display: flex;
+    justify-content: space-between;
+   
+  }
+  nav ul li{
+    list-style: none;
+    margin: 0px 20px;
+  }
+  nav ul li a{
+    text-decoration: none;
+    color: white;
+  }
+  nav ul li a:hover{
+    background-color: rgb(98, 98, 109);
+    font-size: 17px;
+  }
+
+ .left{
+  font-size: 1.5rem;
+
+  }
+
+  .firstsection{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    color: black;
+   
+  }
+  
+
+  .color{
+    color: rgb(223, 79, 223);
+  }
+
+  .lsec{
+    font-size: 18px;
+  }
+  .rsec{
+    margin: 23px 0px;
+  }
+
+  #a2{
+    font-size: 20px;
+    color: black;
+  }
+
+  .s1{
+    font-size: 18px;
+  }
+
+  .secondsection{
+    background-color: rgb(250, 117, 0);
+    justify-content: center;
+  }
+
+  .thirdsection{
+    background-color: rgb(180, 18, 145);
+  }
+
+  #a3{
+    font-size: 20px;
+    color: black;
+  }
+
+  .p1{
+    font-size: 18px;
+  }
+
+  .bold{
+    color:rgb(65, 3, 65)  ;
+  }
+
+  .fourthsection{
+    background-color: rgb(255, 255, 99);
+  }
+
+  #a4{
+    font-size: 20px;
+    color: black;
+  }
+
+  .contact{
+    justify-content: center;
+    font-size: 18px;
+    color: tomato;
+  }
+
+  .footersection{
+    display: flex;
+    justify-content: space-around;
+    color: black;
+    height: 8%;
+    align-items: center;
+  }
+
+  div.fright a{
+    text-decoration: none;
+    margin: 0px 23px;
+    
+  }
+
+  .fa{
+    font-size: 40px;
+    
+  }
+
+  
